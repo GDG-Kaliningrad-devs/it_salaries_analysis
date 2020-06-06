@@ -1,0 +1,5 @@
+.DS_Store
+logs.txt
+.vscode
+.ipynb_checkpoints
+polls/salaries.csv
