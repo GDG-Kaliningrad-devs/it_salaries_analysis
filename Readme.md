@@ -2,7 +2,7 @@
 
 Source code of ploting GDG Kaliningrad salaries poll results
 
-Google form of poll you can find and copy for your needs [here](https://forms.gle/yDFW9gnBvPheX9Su5)
+You can find and copy google form of the poll for your needs [here](https://forms.gle/yDFW9gnBvPheX9Su5)
 
 # How to run
 
